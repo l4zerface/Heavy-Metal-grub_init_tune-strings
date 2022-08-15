@@ -1,7 +1,5 @@
-Heavy-Metal-grub_init_tune-strings
+Heavy Metal GRUB init tune strings:
 
 An effort to help you make your computer way more metal during bootup.
 
-Place the code in /etc/default/grub
-Use "grub-mkconfig" to regenerate your GRUB configuration file
-Take a massive bonghit, reboot and rock
+Place the code in /etc/default/grub, use "grub-mkconfig" to regenerate your GRUB configuration file, take a massive bonghit, reboot and rock.
