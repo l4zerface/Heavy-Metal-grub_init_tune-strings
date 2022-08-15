@@ -27,3 +27,6 @@ GRUB_INIT_TUNE="600 88 2 82 3 0 1 82 4 0 8 88 2 82 3 0 1 82 3 0 1 88 1 0 1 98 1 
 
 Megadeth - Symphony of Destruction (pre-chorus riff)
 GRUB_TUNE_INIT="600 294 4 247 1 0 1 233 1 0 1 220 1 0 1 196 1 0 1 185 1 0 1 175 1 0 1 165 7"
+
+Led Zeppelin - Heartbreaker
+GRUB_TUNE_INIT="800 110 8 0 1 131 8 0 1 147 7 155 2 165 2 98 6 0 1 110 1 0 1 110 1 0 1 110 1 0 1 110 1 110 1 131 8 0 1 147 7 155 2 165 2 98 8"
