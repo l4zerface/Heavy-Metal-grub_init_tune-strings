@@ -1,4 +1,4 @@
-#Heavy Metal GRUB init tune strings:
+# Heavy Metal GRUB init tune strings:
 
 An effort to help you make your computer way more metal during bootup.
 
