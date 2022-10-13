@@ -8,6 +8,8 @@ Please visit the following sites to learn to play and create your own strings:
 
 https://breadmaker.github.io/grub-tune-tester/
 
+https://jdnash.com/2022/10/grub_init_tune-row-row-row-your-boat/
+
 https://pages.mtu.edu/~suits/notefreqs.html
 
 https://github.com/BreadMaker/grub-tune-tester
